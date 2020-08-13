@@ -1,10 +1,10 @@
 ## Information
 
-* Luisa Pereira, email
+* Luisa Pereira, luisa.ph@nyu.edu
 * Time: Thursdays 3:20-5:50PM EST
 * Location:
-* [Homework Wiki]()
-* [Office Hours]()
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Luisa)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1WMTVTeUQzVjhUfGRlZmF1bHR8NmJlYmZkZWU4NjRlMGEzMzg3NDA1NTNhODU2OTBmNTc)
 
 ## Dates
 
