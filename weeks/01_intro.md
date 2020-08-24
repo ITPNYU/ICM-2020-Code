@@ -29,8 +29,8 @@
 # Drawing
 ## Getting started, your first program
   * [p5.js Web Editor Tutorial](https://youtu.be/MXs1cOlidWs)
-  * [Drawing with numbers video tutorial](https://youtu.be/c3TeLi6Ns1E)
-  * [Shape and color functions video tutorial](https://youtu.be/c3TeLi6Ns1E)
+  * [Shapes & Drawing video tutorial](https://youtu.be/c3TeLi6Ns1E)
+  * [Color video tutorial](https://youtu.be/riiJTF5-N7c)
   * [Errors and Console Video Tutorial](https://youtu.be/LuGsp5KeJMM)
   * [Code Comments Video Tutorial](https://youtu.be/xJcrPJuem5Q)
   * `setup()` and `draw()`
