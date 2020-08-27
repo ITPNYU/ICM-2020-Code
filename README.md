@@ -2,6 +2,7 @@
 Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 
 ## Syllabus Overview
+The following is an overview of how we will be spending class time over the next 7 weeks. The specifics of what you cover will be determined week to week by your instructor. The material you are responsible for will be detailed on the Homework page (see links below.) for each section.
 * 1 -- [Introduction and Drawing](weeks/01_intro.md)
 * 2 -- [Animation: Variables](weeks/02_animation.md)
 * 3 -- [Interaction: Conditionals](weeks/03_interaction.md)
@@ -11,13 +12,13 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
-* [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-John-Henry)
-* [Luisa](sections/02_Luisa.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Luisa)
-* [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
-* [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
-* [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
-* [Lisa](sections/06_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Lisa)
-* [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Ellen)
+* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework]
+* 02[Luisa](sections/02_Luisa.md) | [Homework]
+* 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
+* 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
+* 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
+* 06 [Lisa](sections/06_Lisa.md) | [Homework]
+* 07 [Ellen](sections/07_Ellen.md) | [Homework]
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
@@ -26,7 +27,7 @@ Syllabus for ITP Foundation Course Introduction to Computational Media: Code
 - The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://alpha.editor.p5js.org/).
 
 ## Extra Help
-- [Research Resident Office Hours](https://itp.nyu.edu/help/in-person-help/office-hours/)
+- [Research Resident Office Hours](http://itp.nyu.edu/residents/contact-the-residents/)
 - ICM Help Sessions: TBD
 - [Coding Lab](https://itp.nyu.edu/help/in-person-help/coding-lab/) for drop-in help
 
