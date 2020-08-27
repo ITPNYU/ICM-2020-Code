@@ -20,9 +20,9 @@
   * [video 9.3: More on transformations](https://youtu.be/IVMvq9rd8dA)
 
 ## p5.js editor examples
-  * [random painting](https://editor.p5js.org/projects/HJg8jfcT3)
-  * [mouse controlled painting](https://editor.p5js.org/projects/r1JeQqa3)
-  * [moving circle](https://editor.p5js.org/projects/Bymv7ca2)
+  * [random painting](https://editor.p5js.org/icm/sketches/HJg8jfcT3)
+  * [mouse controlled painting](https://editor.p5js.org/icm/sketches/r1JeQqa3)
+  * [moving circle](https://editor.p5js.org/icm/sketches/Bymv7ca2)
   * [clock](https://editor.p5js.org/icm/sketches/ryYueiWu7) -- [Clock coding challenge video](https://youtu.be/E4RyStef-gY)
 
 ## Getting Started with p5.js book
