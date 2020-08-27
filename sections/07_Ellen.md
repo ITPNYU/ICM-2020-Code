@@ -1,6 +1,6 @@
 ## Information
 
-* Ellen Nickles
+* Ellen Nickles ellen.nickles@nyu.edu
 * Time: Mondays 8:00PM - 10:30PM EST
 * Location: Zoom
 * Backup Location: Google Meet
