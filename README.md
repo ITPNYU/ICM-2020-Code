@@ -12,12 +12,12 @@ The following is an overview of how we will be spending class time over the next
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
-* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework]
-* 02[Luisa](sections/02_Luisa.md) | [Homework]
+* 01 [John-Henry](sections/01_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-John-Henry)
+* 02 [Luisa](sections/02_Luisa.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Luisa)
 * 03 [Mimi Y.](sections/03_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-03)
 * 04 [Allison](sections/04_Allison.md) | [Class outlines and homework assignments]
 * 05 [Mimi Y.](sections/05_MimiY.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-MimiY-05)
-* 06 [Lisa](sections/06_Lisa.md) | [Homework]
+* 06 [Lisa](sections/06_Lisa.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Lisa)
 * 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Ellen)
 
 ## Questions and Discussion
