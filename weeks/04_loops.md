@@ -9,4 +9,4 @@
 
 ## 10PRINT
 * [10PRINT Coding Challenge video](https://youtu.be/bEyTZ5ZZxZs)
-* [10PRINT code example](https://editor.p5js.org/projects/rkHKL962)
+* [10PRINT code example](https://editor.p5js.org/icm/sketches/rkHKL962)

@@ -7,7 +7,7 @@
   * `if` statement
   * relational operators (`>`, `<`, `<=`, `>=`, `==`, `===`, `!==`)
 * [3.2: Bouncing Ball - video tutorial](https://www.youtube.com/watch?v=LO3Awjn_gyU&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=11)
-  * [bouncing ball editor example](https://editor.p5js.org/projects/BJKWv5Tn)
+  * [bouncing ball editor example](https://editor.p5js.org/icm/sketches/BJKWv5Tn)
 * [3.3: `else`, `else if`, AND (`&&`), OR (`||`) - video tutorial](https://www.youtube.com/watch?v=r2S7j54I68c&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=12)
 * [3.4: Boolean variables - video tutorial](https://www.youtube.com/watch?v=Rk-_syQluvc&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=13)
 * Video Examples: [3.1-3.4](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js)
@@ -18,12 +18,12 @@
 
 ## GUI Interfaces
 One way to practice working with conditionals is to try to code a common interface elements in the canvas: e.g. rollover, button, slider, etc. In [week 6](https://github.com/ITPNYU/ICM-2018/blob/master/weeks/06_dom.md) we'll compare this technique to using elements the browser provides for free.
-- [circle rollover](https://editor.p5js.org/projects/H1kCSqah)
-- [square rollover](https://editor.p5js.org/projects/rkLfL56h)
-- [button hold down](https://editor.p5js.org/projects/S16-H9pn)
-- [button switch](https://editor.p5js.org/projects/Sywrrqa2)
-- [quadrant rollover](https://editor.p5js.org/projects/Hki1I5ah)
-- [rollover with fade](https://editor.p5js.org/projects/SkPsHcph)
-- [draggable](https://editor.p5js.org/projects/B13wH5T3)
-- [knob](https://editor.p5js.org/projects/HkfFHcp2)
-- [slider](https://editor.p5js.org/projects/H1LXU9ah)
+- [circle rollover](https://editor.p5js.org/icm/sketches/H1kCSqah)
+- [square rollover](https://editor.p5js.org/icm/sketches/rkLfL56h)
+- [button hold down](https://editor.p5js.org/icm/sketches/S16-H9pn)
+- [button switch](https://editor.p5js.org/icm/sketches/Sywrrqa2)
+- [quadrant rollover](https://editor.p5js.org/icm/sketches/Hki1I5ah)
+- [rollover with fade](https://editor.p5js.org/icm/sketches/SkPsHcph)
+- [draggable](https://editor.p5js.org/icm/sketches/B13wH5T3)
+- [knob](https://editor.p5js.org/icm/sketches/HkfFHcp2)
+- [slider](https://editor.p5js.org/icm/sketches/H1LXU9ah)
