@@ -1,10 +1,11 @@
 ## Information
 
-* John Henry Thompson, email
-* Time: Wednesdays 7-9PM EST
-* Location:
-* [Homework Wiki]()
-* [Office Hours]()
+* [John Henry Thompson](http://johnhenrythompson.com) 
+* My email: john.henry.thompson@nyu.edu
+* Time: Wednesdays 8:00PM - 10:30PM EST
+* Location: Zoom
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-John-Henry)
+* [Office Hours - to be determined](https://calendar.google.com/calendar/b/3?cid=amh0OTYyOUBueXUuZWR1)
 
 ## Dates
 
