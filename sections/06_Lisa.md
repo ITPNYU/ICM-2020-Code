@@ -1,10 +1,10 @@
 ## Information
 
 * Lisa Jamhoury
-* Time: Fridays, 9AM-11:30AM EST
-* Location:
-* [Homework Wiki]()
-* [Office Hours]()
+* Time: Fridays, 9AM-11:30AM ET
+* Location:EST (one hour behind NYC)
+* [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Lisa)
+* [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)
 
 ## Dates
 
