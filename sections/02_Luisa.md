@@ -5,6 +5,7 @@
 * Location:
 * [Homework Wiki](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Luisa)
 * [Office Hours](https://calendar.google.com/calendar/selfsched?sstoken=UU1WMTVTeUQzVjhUfGRlZmF1bHR8NmJlYmZkZWU4NjRlMGEzMzg3NDA1NTNhODU2OTBmNTc)
+* [Class Outlines and Homework Assignments](https://github.com/ITPNYU/ICM-2020-Code/wiki/Homework-Luisa)
 
 ## Dates
 
