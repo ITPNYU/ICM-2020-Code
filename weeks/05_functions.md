@@ -22,7 +22,7 @@ _The videos in this section were created ~2 years ago. They use different editor
 
 # Object Literals
 
-- [Video](https://www.youtube.com/watch?v=-e5h4IGKZRY) | [Code](https://github.com/Codingrainbow/Rainbow-Code/blob/master/p5.js/2.3_1_p5.js_JavaScript_with_objects%20/sketch.js)
+- [Video](https://www.youtube.com/watch?v=-e5h4IGKZRY) | [Code](https://editor.p5js.org/codingtrain/sketches/6J5VPMbW)
 
 ## Going Further
 
