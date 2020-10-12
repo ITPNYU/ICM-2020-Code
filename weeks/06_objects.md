@@ -6,7 +6,7 @@ Some of the videos in this section were created last year and some two years ago
 * [6.1 Intro to ES6 OOP - video tutorial](https://www.youtube.com/watch?v=xG2Vbnv0wvg)
 * [6.2 Writing a Class - video](https://www.youtube.com/watch?v=T-HGdc8L-7w)
 * [6.3 Constructor Arguments](https://www.youtube.com/watch?v=rHiSsgFRgx4)
-* [Two Gravity Ball Objects code](http://editor.p5js.org/icm/sketches/BkyUQp1nb)
+* [Two Gravity Ball Objects code](https://editor.p5js.org/icm4.0/sketches/vshTFC6kU)
 #### Written Tutorials
 * [Learning Processing Chapter 8 on Objects translated to p5](https://shiffman.github.io/Learning-p5.js/ch08.html)
 * [Mozilla Classes reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
