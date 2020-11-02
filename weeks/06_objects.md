@@ -36,6 +36,7 @@ Some of the videos in this section were created last year and some two years ago
 #### Images and Objects
 * [7.8: Objects and Images - video tutorial](https://youtu.be/i2C1hrJMwz0?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 * [MousePressed Adding New Images - code](http://editor.p5js.org/icm/sketches/SJzKEak3W)
+* Tutorial. [The pixel array: Pushin Pusheen Pixels](https://github.com/itpresidents/icm-help-sessions-2020/blob/master/session-06/session-06-example.md)
 #### Particle Systems
 * [Particle System - video](https://youtu.be/UcdigVaIYAk)
 * [Particle System - code](https://editor.p5js.org/icm/sketches/B1d5xfS5X)
