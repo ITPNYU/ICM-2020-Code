@@ -30,3 +30,4 @@ _The videos in this section were created ~2 years ago. They use different editor
   - [recursion code example](https://editor.p5js.org/icm/sketches/Hyevi8ct6)
 - [Coding Challenge video: Fractal Tree](https://youtu.be/0jjeOYMjmDU) - note this video uses the p5.dom function `createSlider()` which we have yet to cover in class!
   - [fractal tree code example](https://editor.p5js.org/icm/sketches/rkZAJ6PtX)
+  - Tutorial: [Recode Morisawa series by John Maeda](https://github.com/itpresidents/icm-help-sessions-2020/blob/master/session-05/session-05-example.md)
